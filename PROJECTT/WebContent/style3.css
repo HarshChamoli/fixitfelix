@@ -1,0 +1,78 @@
+#container{
+	width:500px;
+	height:700px;
+	border-radius:50px;
+	border:2px solid blue;
+	margin: 60px  30%;
+	background-color:#150501;
+	opacity:0.75;
+	
+}
+
+body{
+	padding: 0px;
+	margin: 0px;
+	background-image:url("img4.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
+}
+
+h3{
+	color: #F61919;
+	font-family: Patua One;
+	font-size: 40px;
+	text-align: center;
+	
+}
+#container form input{
+	font-size: 22px;
+	font-family: Patua One;
+	padding-left: 10px;
+	border-radius: 20px;
+	margin-left:110px;
+	font-weight:bold;
+	
+	
+}
+
+#container button{
+
+background-color: #1DDC49;
+color: white;
+font-family: Patua One;
+font-size: 35px;
+border:none;
+width: 250px;
+padding: 9px;
+border-radius: 28px;
+opacity:1;
+
+
+}
+
+#container button:hover
+{
+	background-color:#DF2294;
+	border:2px black;
+	color:white;
+
+}
+label{
+	font-family: sans-serif;
+	margin-left: 110px;
+	font-size: 20px;
+	color: white;
+	font-weight: bold;
+	
+}
+#down{
+width:500px;
+	height:700px;
+	border-radius:50px;
+	border:2px solid blue;
+	margin: 110px;
+	background-color:#150501;
+	opacity:0.75;
+}	
+
+	

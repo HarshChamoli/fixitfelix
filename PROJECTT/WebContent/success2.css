@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Patua+One');
+
+body{
+	padding: 0px;
+	margin: 0px;
+	
+}
+
+
+#container{
+
+	height: 1000px;
+	width: 1516px;
+	background-color: rgba(0,0,0,0.8);
+}
+
+#content{
+
+	height: 400px;
+	width: 600px;
+	
+	position: absolute;
+	top : 23%;
+	left: 30%;
+	background-color: white;
+}
+
+#content img{
+	height: 120px;
+	width: 120px;
+	padding: 18px;
+	position: absolute;
+	left: 35%;
+
+
+}
+
+#content h3{
+
+position: absolute;
+top: 40%;
+left: 21%;
+font-family: Patua One;
+font-size: 35px;
+
+}
+
+
+#content button{
+	position: absolute;
+	top: 75%;
+	left: 30%;
+	font-family: Patua One;
+	font-size: 30px;
+	width: 200px;
+	background-color:  #33cc33;
+	color: white;
+	border:none;
+	border-radius: 12px;
+	padding: 10px;
+}
+
+#content button:hover{
+	border: 2px solid red;
+}
